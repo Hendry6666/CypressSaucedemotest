@@ -1,0 +1,11 @@
+{
+  "name": "saucedemo",
+  "version": "1.0.0",
+  "description": "try saucademo",
+  "main": "index.js",
+  "author": "hendry",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^10.6.0"
+  }
+}
